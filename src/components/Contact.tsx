@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import { Send, MessageSquare, Mail, Phone, ExternalLink } from "lucide-react";
+import { Send, MessageSquare, Mail, ExternalLink } from "lucide-react";
 import { FaWhatsapp, FaFacebookMessenger } from "react-icons/fa";
 
 const Contact: React.FC = () => {
