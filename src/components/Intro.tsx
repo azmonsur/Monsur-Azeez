@@ -33,14 +33,15 @@ const Intro: React.FC = () => {
 
         <p className="text-lg md:text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
           Transforming messy data into clean, automated, and insightful systems.
-          Specialized in{" "}
+          Specialized in delivering
           <span className="text-slate-900 dark:text-slate-200 font-semibold underline decoration-emerald-500/40">
-            scalable APIs
+            {" "}
+            high-performance applications
           </span>{" "}
           and
           <span className="text-slate-900 dark:text-slate-200 font-semibold underline decoration-emerald-500/40">
             {" "}
-            messaging architectures
+            end-to-end business automation
           </span>
           .
         </p>
